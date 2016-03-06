@@ -108,5 +108,18 @@ then use this command
 ```
 delpyc
 ```
+===
 
+
+
+
+
+#####7
+######create template for CMS
+```
+pip install django-installer
+mkdir tutorial-project
+cd tutorial-project
+djangocms -f -p . mysite  //create a new proj in tutorial-project folder.
+```
 
